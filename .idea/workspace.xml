@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba1d7b5c-b7d4-4e7e-9169-020ab0f581b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/abc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countries.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Flag_of_Uganda.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Mangoes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cullinan-magma-red-ext-4-1525901623.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flag_of_Somalia.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image3 (copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/imageone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kenya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/th.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paragraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vX8QQnGS0gliW7LXOF0VVrd6WQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ids.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/abc/ids.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba1d7b5c-b7d4-4e7e-9169-020ab0f581b0" name="Default Changelist" comment="" />
+      <created>1626697056832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626697056832</updated>
+      <workItem from="1626697059412" duration="2775000" />
+      <workItem from="1626866783891" duration="2675000" />
+      <workItem from="1626870712584" duration="4988000" />
+      <workItem from="1627375521096" duration="379000" />
+      <workItem from="1650608355038" duration="4237000" />
+      <workItem from="1650615997423" duration="21000" />
+      <workItem from="1650865430592" duration="7660000" />
+      <workItem from="1650874090818" duration="32000" />
+      <workItem from="1650959082890" duration="97000" />
+      <workItem from="1651039163078" duration="303000" />
+      <workItem from="1651039518071" duration="35000" />
+      <workItem from="1651039599364" duration="6207000" />
+      <workItem from="1651045851645" duration="114000" />
+      <workItem from="1651124859359" duration="6101000" />
+      <workItem from="1651647641856" duration="1583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="242" width="530" height="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650865941349">
+      <screen x="0" y="0" width="1440" height="873" />
+    </state>
+    <state x="455" y="242" width="530" height="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.873@0.0.1440.873" timestamp="1650865941349" />
+    <state x="498" y="113" width="433" height="639" key="#ids.html" timestamp="1651044520587">
+      <screen x="0" y="0" width="1440" height="873" />
+    </state>
+    <state x="498" y="113" width="433" height="639" key="#ids.html/0.0.1440.873@0.0.1440.873" timestamp="1651044520587" />
+    <state x="384" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1650609963258">
+      <screen x="0" y="0" width="1440" height="873" />
+    </state>
+    <state x="384" y="85" width="670" height="676" key="search.everywhere.popup/0.0.1440.873@0.0.1440.873" timestamp="1650609963258" />
+  </component>
+</project>

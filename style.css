@@ -1,0 +1,14 @@
+.fruits{
+    border: 2px solid blue;
+    color: black;
+    background-color: hotpink;
+    text-align: center;
+    font-family: "URW Palladio L";
+    padding: 15px;
+    margin: 20px;
+}
+.cars{
+    border: 2px solid blue;
+    color:salmon;
+    text-align: center;
+}
