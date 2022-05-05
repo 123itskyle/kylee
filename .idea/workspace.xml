@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba1d7b5c-b7d4-4e7e-9169-020ab0f581b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/abc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countries.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ids.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Flag_of_Uganda.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Mangoes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/banana.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cullinan-magma-red-ext-4-1525901623.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/flag_of_Somalia.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image3 (copy).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imageone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kenya.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/th.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introduction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paragraph" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +79,8 @@
       <workItem from="1651039599364" duration="6207000" />
       <workItem from="1651045851645" duration="114000" />
       <workItem from="1651124859359" duration="6101000" />
-      <workItem from="1651647641856" duration="1583000" />
+      <workItem from="1651647641856" duration="2563000" />
+      <workItem from="1651671712127" duration="599000" />
     </task>
     <servers />
   </component>
